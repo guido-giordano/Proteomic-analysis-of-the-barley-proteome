@@ -15,6 +15,7 @@ This project implements a structured workflow to process, integrate, and analyse
 - Integration of protein abundance data across multiple varieties and species  
 - Comparative analysis under different abiotic stress conditions  
 - Automated generation of publication-ready visualisations
+- conversion of TMT abundance values to iBAQ 
 
 ## Technical Highlights
 - Developed in R and python
